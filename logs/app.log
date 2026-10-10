@@ -1,0 +1,6 @@
+2026-10-10 11:07:20,996 ERROR app: Interview analysis failed
+Traceback (most recent call last):
+  File "D:\dl project\AI_Interview_Emotion_Confidence_Analysis\app.py", line 200, in show_interview_analysis
+    score = report["behavioral_confidence_score"]
+            ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'behavioral_confidence_score'

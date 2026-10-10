@@ -1,0 +1,372 @@
+{
+  "video": "video.mp4",
+  "duration_seconds": 23.28,
+  "fps": 25.0,
+  "total_frames": 582,
+  "frame_interval": 10,
+  "sampled_frames": 59,
+  "analyzed_frames": 56,
+  "face_detected_frames": 56,
+  "frames_without_face": 3,
+  "face_image_quality_proxy": 39.17,
+  "head_stability_proxy": 36.16,
+  "emotion_stability_proxy": 51.79,
+  "dominant_emotion": "sad",
+  "emotion_distribution": {
+    "angry": 35.71,
+    "sad": 58.93,
+    "neutral": 3.57,
+    "surprise": 1.79
+  },
+  "emotion_timeline": [
+    {
+      "frame": 1,
+      "time_seconds": 0.0,
+      "emotion": "angry",
+      "probability": 0.5012
+    },
+    {
+      "frame": 11,
+      "time_seconds": 0.4,
+      "emotion": "angry",
+      "probability": 0.5042
+    },
+    {
+      "frame": 21,
+      "time_seconds": 0.8,
+      "emotion": "angry",
+      "probability": 0.3419
+    },
+    {
+      "frame": 31,
+      "time_seconds": 1.2,
+      "emotion": "sad",
+      "probability": 0.3049
+    },
+    {
+      "frame": 51,
+      "time_seconds": 2.0,
+      "emotion": "angry",
+      "probability": 0.402
+    },
+    {
+      "frame": 61,
+      "time_seconds": 2.4,
+      "emotion": "angry",
+      "probability": 0.3507
+    },
+    {
+      "frame": 71,
+      "time_seconds": 2.8,
+      "emotion": "angry",
+      "probability": 0.3979
+    },
+    {
+      "frame": 81,
+      "time_seconds": 3.2,
+      "emotion": "sad",
+      "probability": 0.5856
+    },
+    {
+      "frame": 91,
+      "time_seconds": 3.6,
+      "emotion": "angry",
+      "probability": 0.3946
+    },
+    {
+      "frame": 101,
+      "time_seconds": 4.0,
+      "emotion": "sad",
+      "probability": 0.2894
+    },
+    {
+      "frame": 111,
+      "time_seconds": 4.4,
+      "emotion": "angry",
+      "probability": 0.3042
+    },
+    {
+      "frame": 121,
+      "time_seconds": 4.8,
+      "emotion": "angry",
+      "probability": 0.4503
+    },
+    {
+      "frame": 131,
+      "time_seconds": 5.2,
+      "emotion": "sad",
+      "probability": 0.3857
+    },
+    {
+      "frame": 141,
+      "time_seconds": 5.6,
+      "emotion": "neutral",
+      "probability": 0.3035
+    },
+    {
+      "frame": 151,
+      "time_seconds": 6.0,
+      "emotion": "angry",
+      "probability": 0.4893
+    },
+    {
+      "frame": 161,
+      "time_seconds": 6.4,
+      "emotion": "angry",
+      "probability": 0.3594
+    },
+    {
+      "frame": 171,
+      "time_seconds": 6.8,
+      "emotion": "sad",
+      "probability": 0.3878
+    },
+    {
+      "frame": 181,
+      "time_seconds": 7.2,
+      "emotion": "sad",
+      "probability": 0.512
+    },
+    {
+      "frame": 191,
+      "time_seconds": 7.6,
+      "emotion": "sad",
+      "probability": 0.3732
+    },
+    {
+      "frame": 201,
+      "time_seconds": 8.0,
+      "emotion": "neutral",
+      "probability": 0.5391
+    },
+    {
+      "frame": 211,
+      "time_seconds": 8.4,
+      "emotion": "surprise",
+      "probability": 0.3594
+    },
+    {
+      "frame": 221,
+      "time_seconds": 8.8,
+      "emotion": "angry",
+      "probability": 0.3603
+    },
+    {
+      "frame": 231,
+      "time_seconds": 9.2,
+      "emotion": "sad",
+      "probability": 0.6125
+    },
+    {
+      "frame": 241,
+      "time_seconds": 9.6,
+      "emotion": "sad",
+      "probability": 0.463
+    },
+    {
+      "frame": 251,
+      "time_seconds": 10.0,
+      "emotion": "sad",
+      "probability": 0.5157
+    },
+    {
+      "frame": 261,
+      "time_seconds": 10.4,
+      "emotion": "angry",
+      "probability": 0.3488
+    },
+    {
+      "frame": 271,
+      "time_seconds": 10.8,
+      "emotion": "sad",
+      "probability": 0.4731
+    },
+    {
+      "frame": 281,
+      "time_seconds": 11.2,
+      "emotion": "sad",
+      "probability": 0.4833
+    },
+    {
+      "frame": 291,
+      "time_seconds": 11.6,
+      "emotion": "angry",
+      "probability": 0.4575
+    },
+    {
+      "frame": 301,
+      "time_seconds": 12.0,
+      "emotion": "sad",
+      "probability": 0.3961
+    },
+    {
+      "frame": 311,
+      "time_seconds": 12.4,
+      "emotion": "angry",
+      "probability": 0.4183
+    },
+    {
+      "frame": 321,
+      "time_seconds": 12.8,
+      "emotion": "sad",
+      "probability": 0.473
+    },
+    {
+      "frame": 341,
+      "time_seconds": 13.6,
+      "emotion": "sad",
+      "probability": 0.323
+    },
+    {
+      "frame": 351,
+      "time_seconds": 14.0,
+      "emotion": "sad",
+      "probability": 0.3328
+    },
+    {
+      "frame": 361,
+      "time_seconds": 14.4,
+      "emotion": "sad",
+      "probability": 0.3082
+    },
+    {
+      "frame": 371,
+      "time_seconds": 14.8,
+      "emotion": "sad",
+      "probability": 0.3836
+    },
+    {
+      "frame": 381,
+      "time_seconds": 15.2,
+      "emotion": "sad",
+      "probability": 0.3732
+    },
+    {
+      "frame": 391,
+      "time_seconds": 15.6,
+      "emotion": "sad",
+      "probability": 0.3454
+    },
+    {
+      "frame": 401,
+      "time_seconds": 16.0,
+      "emotion": "sad",
+      "probability": 0.4008
+    },
+    {
+      "frame": 411,
+      "time_seconds": 16.4,
+      "emotion": "sad",
+      "probability": 0.3931
+    },
+    {
+      "frame": 421,
+      "time_seconds": 16.8,
+      "emotion": "sad",
+      "probability": 0.373
+    },
+    {
+      "frame": 431,
+      "time_seconds": 17.2,
+      "emotion": "angry",
+      "probability": 0.3154
+    },
+    {
+      "frame": 441,
+      "time_seconds": 17.6,
+      "emotion": "sad",
+      "probability": 0.2694
+    },
+    {
+      "frame": 451,
+      "time_seconds": 18.0,
+      "emotion": "sad",
+      "probability": 0.3759
+    },
+    {
+      "frame": 461,
+      "time_seconds": 18.4,
+      "emotion": "sad",
+      "probability": 0.4252
+    },
+    {
+      "frame": 471,
+      "time_seconds": 18.8,
+      "emotion": "sad",
+      "probability": 0.3208
+    },
+    {
+      "frame": 491,
+      "time_seconds": 19.6,
+      "emotion": "sad",
+      "probability": 0.4329
+    },
+    {
+      "frame": 501,
+      "time_seconds": 20.0,
+      "emotion": "sad",
+      "probability": 0.2949
+    },
+    {
+      "frame": 511,
+      "time_seconds": 20.4,
+      "emotion": "sad",
+      "probability": 0.37
+    },
+    {
+      "frame": 521,
+      "time_seconds": 20.8,
+      "emotion": "sad",
+      "probability": 0.4383
+    },
+    {
+      "frame": 531,
+      "time_seconds": 21.2,
+      "emotion": "angry",
+      "probability": 0.3049
+    },
+    {
+      "frame": 541,
+      "time_seconds": 21.6,
+      "emotion": "angry",
+      "probability": 0.5554
+    },
+    {
+      "frame": 551,
+      "time_seconds": 22.0,
+      "emotion": "angry",
+      "probability": 0.4093
+    },
+    {
+      "frame": 561,
+      "time_seconds": 22.4,
+      "emotion": "sad",
+      "probability": 0.3789
+    },
+    {
+      "frame": 571,
+      "time_seconds": 22.8,
+      "emotion": "angry",
+      "probability": 0.2787
+    },
+    {
+      "frame": 581,
+      "time_seconds": 23.2,
+      "emotion": "sad",
+      "probability": 0.2969
+    }
+  ],
+  "average_emotion_probability": 0.3971,
+  "behavioral_proxy_score": 43.16,
+  "behavioral_proxy_details": {
+    "face_image_quality_proxy": 0.3917,
+    "head_stability_proxy": 0.3616,
+    "emotion_stability_proxy": 0.5179,
+    "frames_analyzed": 56,
+    "behavioral_proxy_score": 43.16,
+    "score_status": "experimental_proxy",
+    "warning": "Experimental image and behavior proxies only. These are not validated measures of psychological confidence, eye contact, competence, or internal emotional state. Scores depend on camera conditions, sampling, and heuristic choices."
+  },
+  "overall_interpretation": "Experimental observable-video proxy only; not a clinical or psychological confidence measurement.",
+  "warning": "Facial expressions and predicted emotion labels do not necessarily reveal internal emotional states. These results should not be used alone for hiring decisions."
+}

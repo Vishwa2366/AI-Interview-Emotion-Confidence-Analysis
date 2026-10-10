@@ -1,0 +1,399 @@
+2026-10-09 11:34:00,330 INFO train_random_forest: Loading training images from D:\dl project\AI_Interview_Emotion_Confidence_Analysis\data\fer2013
+2026-10-09 11:34:01,730 INFO train_random_forest: Training images: 28709
+2026-10-09 11:34:01,731 INFO train_random_forest: Test images: 7178
+2026-10-09 11:34:01,731 INFO train_random_forest: Extracting HOG features for training images...
+2026-10-09 11:34:03,436 INFO train_random_forest: Training features: 500/28709 images processed
+2026-10-09 11:34:04,973 INFO train_random_forest: Training features: 1000/28709 images processed
+2026-10-09 11:34:06,339 INFO train_random_forest: Training features: 1500/28709 images processed
+2026-10-09 11:34:07,666 INFO train_random_forest: Training features: 2000/28709 images processed
+2026-10-09 11:34:09,024 INFO train_random_forest: Training features: 2500/28709 images processed
+2026-10-09 11:34:10,413 INFO train_random_forest: Training features: 3000/28709 images processed
+2026-10-09 11:34:11,762 INFO train_random_forest: Training features: 3500/28709 images processed
+2026-10-09 11:34:13,103 INFO train_random_forest: Training features: 4000/28709 images processed
+2026-10-09 11:34:14,357 INFO train_random_forest: Training features: 4500/28709 images processed
+2026-10-09 11:34:15,630 INFO train_random_forest: Training features: 5000/28709 images processed
+2026-10-09 11:34:16,873 INFO train_random_forest: Training features: 5500/28709 images processed
+2026-10-09 11:34:18,152 INFO train_random_forest: Training features: 6000/28709 images processed
+2026-10-09 11:34:19,340 INFO train_random_forest: Training features: 6500/28709 images processed
+2026-10-09 11:34:20,598 INFO train_random_forest: Training features: 7000/28709 images processed
+2026-10-09 11:34:21,853 INFO train_random_forest: Training features: 7500/28709 images processed
+2026-10-09 11:34:23,174 INFO train_random_forest: Training features: 8000/28709 images processed
+2026-10-09 11:34:24,390 INFO train_random_forest: Training features: 8500/28709 images processed
+2026-10-09 11:34:25,636 INFO train_random_forest: Training features: 9000/28709 images processed
+2026-10-09 11:34:26,915 INFO train_random_forest: Training features: 9500/28709 images processed
+2026-10-09 11:34:28,174 INFO train_random_forest: Training features: 10000/28709 images processed
+2026-10-09 11:34:29,411 INFO train_random_forest: Training features: 10500/28709 images processed
+2026-10-09 11:34:30,688 INFO train_random_forest: Training features: 11000/28709 images processed
+2026-10-09 11:34:31,966 INFO train_random_forest: Training features: 11500/28709 images processed
+2026-10-09 11:34:33,237 INFO train_random_forest: Training features: 12000/28709 images processed
+2026-10-09 11:34:34,450 INFO train_random_forest: Training features: 12500/28709 images processed
+2026-10-09 11:34:35,678 INFO train_random_forest: Training features: 13000/28709 images processed
+2026-10-09 11:34:36,820 INFO train_random_forest: Training features: 13500/28709 images processed
+2026-10-09 11:34:38,030 INFO train_random_forest: Training features: 14000/28709 images processed
+2026-10-09 11:34:39,281 INFO train_random_forest: Training features: 14500/28709 images processed
+2026-10-09 11:34:40,505 INFO train_random_forest: Training features: 15000/28709 images processed
+2026-10-09 11:34:41,758 INFO train_random_forest: Training features: 15500/28709 images processed
+2026-10-09 11:34:42,957 INFO train_random_forest: Training features: 16000/28709 images processed
+2026-10-09 11:34:44,250 INFO train_random_forest: Training features: 16500/28709 images processed
+2026-10-09 11:34:45,527 INFO train_random_forest: Training features: 17000/28709 images processed
+2026-10-09 11:34:46,799 INFO train_random_forest: Training features: 17500/28709 images processed
+2026-10-09 11:34:48,249 INFO train_random_forest: Training features: 18000/28709 images processed
+2026-10-09 11:34:49,655 INFO train_random_forest: Training features: 18500/28709 images processed
+2026-10-09 11:34:51,082 INFO train_random_forest: Training features: 19000/28709 images processed
+2026-10-09 11:34:52,425 INFO train_random_forest: Training features: 19500/28709 images processed
+2026-10-09 11:34:53,882 INFO train_random_forest: Training features: 20000/28709 images processed
+2026-10-09 11:34:55,367 INFO train_random_forest: Training features: 20500/28709 images processed
+2026-10-09 11:34:56,854 INFO train_random_forest: Training features: 21000/28709 images processed
+2026-10-09 11:34:58,499 INFO train_random_forest: Training features: 21500/28709 images processed
+2026-10-09 11:34:59,972 INFO train_random_forest: Training features: 22000/28709 images processed
+2026-10-09 11:35:01,290 INFO train_random_forest: Training features: 22500/28709 images processed
+2026-10-09 11:35:02,899 INFO train_random_forest: Training features: 23000/28709 images processed
+2026-10-09 11:35:04,907 INFO train_random_forest: Training features: 23500/28709 images processed
+2026-10-09 11:35:06,934 INFO train_random_forest: Training features: 24000/28709 images processed
+2026-10-09 11:35:08,430 INFO train_random_forest: Training features: 24500/28709 images processed
+2026-10-09 11:35:10,012 INFO train_random_forest: Training features: 25000/28709 images processed
+2026-10-09 11:35:11,354 INFO train_random_forest: Training features: 25500/28709 images processed
+2026-10-09 11:35:12,811 INFO train_random_forest: Training features: 26000/28709 images processed
+2026-10-09 11:35:14,371 INFO train_random_forest: Training features: 26500/28709 images processed
+2026-10-09 11:35:15,875 INFO train_random_forest: Training features: 27000/28709 images processed
+2026-10-09 11:35:17,493 INFO train_random_forest: Training features: 27500/28709 images processed
+2026-10-09 11:35:19,121 INFO train_random_forest: Training features: 28000/28709 images processed
+2026-10-09 11:35:20,595 INFO train_random_forest: Training features: 28500/28709 images processed
+2026-10-09 11:35:21,234 INFO train_random_forest: Training features: 28709/28709 images processed
+2026-10-09 11:35:21,613 INFO train_random_forest: Extracting HOG features for test images...
+2026-10-09 11:35:23,150 INFO train_random_forest: Test features: 500/7178 images processed
+2026-10-09 11:35:24,458 INFO train_random_forest: Test features: 1000/7178 images processed
+2026-10-09 11:35:25,727 INFO train_random_forest: Test features: 1500/7178 images processed
+2026-10-09 11:35:27,048 INFO train_random_forest: Test features: 2000/7178 images processed
+2026-10-09 11:35:28,395 INFO train_random_forest: Test features: 2500/7178 images processed
+2026-10-09 11:35:29,850 INFO train_random_forest: Test features: 3000/7178 images processed
+2026-10-09 11:35:31,705 INFO train_random_forest: Test features: 3500/7178 images processed
+2026-10-09 11:35:33,381 INFO train_random_forest: Test features: 4000/7178 images processed
+2026-10-09 11:35:34,664 INFO train_random_forest: Test features: 4500/7178 images processed
+2026-10-09 11:35:36,309 INFO train_random_forest: Test features: 5000/7178 images processed
+2026-10-09 11:35:37,705 INFO train_random_forest: Test features: 5500/7178 images processed
+2026-10-09 11:35:38,935 INFO train_random_forest: Test features: 6000/7178 images processed
+2026-10-09 11:35:40,199 INFO train_random_forest: Test features: 6500/7178 images processed
+2026-10-09 11:35:41,366 INFO train_random_forest: Test features: 7000/7178 images processed
+2026-10-09 11:35:41,852 INFO train_random_forest: Test features: 7178/7178 images processed
+2026-10-09 11:35:41,925 INFO train_random_forest: Training Random Forest classifier...
+2026-10-09 11:35:43,934 INFO train_random_forest: Evaluating model on the test split...
+2026-10-09 11:35:44,021 INFO train_random_forest: Model saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_hog.joblib
+2026-10-09 11:35:44,021 INFO train_random_forest: Metrics saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_metrics.json
+2026-10-09 11:35:44,021 INFO train_random_forest: Test accuracy: 0.3867
+2026-10-09 11:35:44,022 INFO train_random_forest: Macro F1 score: 0.3082
+2026-10-09 11:51:01,284 INFO train_random_forest: Loading training images from C:\Users\vishw\AppData\Local\Temp\fer2013_subset_mwmevva_
+2026-10-09 11:51:01,297 INFO train_random_forest: Training images: 70
+2026-10-09 11:51:01,298 INFO train_random_forest: Test images: 70
+2026-10-09 11:51:01,298 INFO train_random_forest: Extracting HOG features for training images...
+2026-10-09 11:51:01,615 INFO train_random_forest: Training features: 70/70 images processed
+2026-10-09 11:51:01,616 INFO train_random_forest: Extracting HOG features for test images...
+2026-10-09 11:51:01,929 INFO train_random_forest: Test features: 70/70 images processed
+2026-10-09 11:51:01,930 INFO train_random_forest: Training Random Forest classifier...
+2026-10-09 11:51:03,004 INFO train_random_forest: Evaluating model on the test split...
+2026-10-09 11:51:03,333 INFO train_random_forest: Model saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_hog.joblib
+2026-10-09 11:51:03,333 INFO train_random_forest: Metrics saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_metrics.json
+2026-10-09 11:51:03,334 INFO train_random_forest: Test accuracy: 0.3143
+2026-10-09 11:51:03,334 INFO train_random_forest: Macro F1 score: 0.3045
+2026-10-10 00:44:53,683 INFO train_random_forest: Loading training images from D:\dl project\AI_Interview_Emotion_Confidence_Analysis\data\fer2013
+2026-10-10 00:44:55,583 INFO train_random_forest: Training images: 28709
+2026-10-10 00:44:55,584 INFO train_random_forest: Test images: 7178
+2026-10-10 00:44:55,584 INFO train_random_forest: Extracting HOG features for training images...
+2026-10-10 00:44:57,107 INFO train_random_forest: Training features: 500/28709 images processed
+2026-10-10 00:44:58,231 INFO train_random_forest: Training features: 1000/28709 images processed
+2026-10-10 00:44:59,420 INFO train_random_forest: Training features: 1500/28709 images processed
+2026-10-10 00:45:00,989 INFO train_random_forest: Training features: 2000/28709 images processed
+2026-10-10 00:45:02,099 INFO train_random_forest: Training features: 2500/28709 images processed
+2026-10-10 00:45:03,286 INFO train_random_forest: Training features: 3000/28709 images processed
+2026-10-10 00:45:04,548 INFO train_random_forest: Training features: 3500/28709 images processed
+2026-10-10 00:45:10,220 INFO train_random_forest: Loading training images from D:\dl project\AI_Interview_Emotion_Confidence_Analysis\data\fer2013
+2026-10-10 00:45:11,442 INFO train_random_forest: Training images: 28709
+2026-10-10 00:45:11,442 INFO train_random_forest: Test images: 7178
+2026-10-10 00:45:11,442 INFO train_random_forest: Extracting HOG features for training images...
+2026-10-10 00:45:13,036 INFO train_random_forest: Training features: 500/28709 images processed
+2026-10-10 00:45:14,471 INFO train_random_forest: Training features: 1000/28709 images processed
+2026-10-10 00:45:15,885 INFO train_random_forest: Training features: 1500/28709 images processed
+2026-10-10 00:45:17,164 INFO train_random_forest: Training features: 2000/28709 images processed
+2026-10-10 00:45:18,591 INFO train_random_forest: Training features: 2500/28709 images processed
+2026-10-10 00:45:20,021 INFO train_random_forest: Training features: 3000/28709 images processed
+2026-10-10 00:45:22,010 INFO train_random_forest: Training features: 3500/28709 images processed
+2026-10-10 00:45:24,984 INFO train_random_forest: Training features: 4000/28709 images processed
+2026-10-10 00:45:27,939 INFO train_random_forest: Training features: 4500/28709 images processed
+2026-10-10 00:45:31,001 INFO train_random_forest: Training features: 5000/28709 images processed
+2026-10-10 00:45:34,410 INFO train_random_forest: Training features: 5500/28709 images processed
+2026-10-10 00:45:36,339 INFO train_random_forest: Training features: 6000/28709 images processed
+2026-10-10 00:45:38,322 INFO train_random_forest: Training features: 6500/28709 images processed
+2026-10-10 00:45:39,785 INFO train_random_forest: Training features: 7000/28709 images processed
+2026-10-10 00:45:41,567 INFO train_random_forest: Training features: 7500/28709 images processed
+2026-10-10 00:45:43,271 INFO train_random_forest: Training features: 8000/28709 images processed
+2026-10-10 00:45:44,869 INFO train_random_forest: Training features: 8500/28709 images processed
+2026-10-10 00:45:46,377 INFO train_random_forest: Training features: 9000/28709 images processed
+2026-10-10 00:45:47,949 INFO train_random_forest: Training features: 9500/28709 images processed
+2026-10-10 00:45:49,444 INFO train_random_forest: Training features: 10000/28709 images processed
+2026-10-10 00:45:51,006 INFO train_random_forest: Training features: 10500/28709 images processed
+2026-10-10 00:45:52,268 INFO train_random_forest: Training features: 11000/28709 images processed
+2026-10-10 00:45:53,543 INFO train_random_forest: Training features: 11500/28709 images processed
+2026-10-10 00:45:55,087 INFO train_random_forest: Training features: 12000/28709 images processed
+2026-10-10 00:45:56,430 INFO train_random_forest: Training features: 12500/28709 images processed
+2026-10-10 00:45:57,707 INFO train_random_forest: Training features: 13000/28709 images processed
+2026-10-10 00:46:00,508 INFO train_random_forest: Training features: 13500/28709 images processed
+2026-10-10 00:46:03,378 INFO train_random_forest: Training features: 14000/28709 images processed
+2026-10-10 00:46:05,730 INFO train_random_forest: Training features: 14500/28709 images processed
+2026-10-10 00:46:08,334 INFO train_random_forest: Training features: 15000/28709 images processed
+2026-10-10 00:46:11,403 INFO train_random_forest: Training features: 15500/28709 images processed
+2026-10-10 00:46:14,730 INFO train_random_forest: Training features: 16000/28709 images processed
+2026-10-10 00:46:16,288 INFO train_random_forest: Training features: 16500/28709 images processed
+2026-10-10 00:46:17,906 INFO train_random_forest: Training features: 17000/28709 images processed
+2026-10-10 00:46:19,174 INFO train_random_forest: Training features: 17500/28709 images processed
+2026-10-10 00:46:32,800 INFO train_random_forest: Loading training images from D:\dl project\AI_Interview_Emotion_Confidence_Analysis\data\fer2013
+2026-10-10 00:46:33,984 INFO train_random_forest: Training images: 28709
+2026-10-10 00:46:33,985 INFO train_random_forest: Test images: 7178
+2026-10-10 00:46:33,985 INFO train_random_forest: Extracting HOG features for training images...
+2026-10-10 00:46:35,284 INFO train_random_forest: Training features: 500/28709 images processed
+2026-10-10 00:46:36,785 INFO train_random_forest: Training features: 1000/28709 images processed
+2026-10-10 00:46:38,129 INFO train_random_forest: Training features: 1500/28709 images processed
+2026-10-10 00:46:39,461 INFO train_random_forest: Training features: 2000/28709 images processed
+2026-10-10 00:46:40,784 INFO train_random_forest: Training features: 2500/28709 images processed
+2026-10-10 00:46:42,088 INFO train_random_forest: Training features: 3000/28709 images processed
+2026-10-10 00:46:43,194 INFO train_random_forest: Training features: 3500/28709 images processed
+2026-10-10 00:46:44,282 INFO train_random_forest: Training features: 4000/28709 images processed
+2026-10-10 00:46:45,572 INFO train_random_forest: Training features: 4500/28709 images processed
+2026-10-10 00:46:46,926 INFO train_random_forest: Training features: 5000/28709 images processed
+2026-10-10 00:46:48,260 INFO train_random_forest: Training features: 5500/28709 images processed
+2026-10-10 00:46:49,687 INFO train_random_forest: Training features: 6000/28709 images processed
+2026-10-10 00:46:51,012 INFO train_random_forest: Training features: 6500/28709 images processed
+2026-10-10 00:46:52,392 INFO train_random_forest: Training features: 7000/28709 images processed
+2026-10-10 00:46:53,754 INFO train_random_forest: Training features: 7500/28709 images processed
+2026-10-10 00:46:55,118 INFO train_random_forest: Training features: 8000/28709 images processed
+2026-10-10 00:46:56,485 INFO train_random_forest: Training features: 8500/28709 images processed
+2026-10-10 00:46:57,933 INFO train_random_forest: Training features: 9000/28709 images processed
+2026-10-10 00:46:59,377 INFO train_random_forest: Training features: 9500/28709 images processed
+2026-10-10 00:47:00,763 INFO train_random_forest: Training features: 10000/28709 images processed
+2026-10-10 00:47:02,195 INFO train_random_forest: Training features: 10500/28709 images processed
+2026-10-10 00:47:03,641 INFO train_random_forest: Training features: 11000/28709 images processed
+2026-10-10 00:47:05,725 INFO train_random_forest: Training features: 11500/28709 images processed
+2026-10-10 00:47:07,544 INFO train_random_forest: Training features: 12000/28709 images processed
+2026-10-10 00:47:09,260 INFO train_random_forest: Training features: 12500/28709 images processed
+2026-10-10 00:47:12,195 INFO train_random_forest: Training features: 13000/28709 images processed
+2026-10-10 00:47:14,797 INFO train_random_forest: Training features: 13500/28709 images processed
+2026-10-10 00:47:17,671 INFO train_random_forest: Training features: 14000/28709 images processed
+2026-10-10 00:47:20,319 INFO train_random_forest: Training features: 14500/28709 images processed
+2026-10-10 00:47:22,946 INFO train_random_forest: Training features: 15000/28709 images processed
+2026-10-10 00:47:25,934 INFO train_random_forest: Training features: 15500/28709 images processed
+2026-10-10 00:47:28,837 INFO train_random_forest: Training features: 16000/28709 images processed
+2026-10-10 00:47:32,038 INFO train_random_forest: Training features: 16500/28709 images processed
+2026-10-10 00:47:35,135 INFO train_random_forest: Training features: 17000/28709 images processed
+2026-10-10 00:47:37,006 INFO train_random_forest: Training features: 17500/28709 images processed
+2026-10-10 00:47:38,462 INFO train_random_forest: Training features: 18000/28709 images processed
+2026-10-10 00:47:39,829 INFO train_random_forest: Training features: 18500/28709 images processed
+2026-10-10 00:47:41,184 INFO train_random_forest: Training features: 19000/28709 images processed
+2026-10-10 00:47:42,517 INFO train_random_forest: Training features: 19500/28709 images processed
+2026-10-10 00:47:44,426 INFO train_random_forest: Training features: 20000/28709 images processed
+2026-10-10 00:47:46,280 INFO train_random_forest: Training features: 20500/28709 images processed
+2026-10-10 00:47:47,919 INFO train_random_forest: Training features: 21000/28709 images processed
+2026-10-10 00:47:49,093 INFO train_random_forest: Training features: 21500/28709 images processed
+2026-10-10 00:47:51,553 INFO train_random_forest: Training features: 22000/28709 images processed
+2026-10-10 00:47:54,762 INFO train_random_forest: Training features: 22500/28709 images processed
+2026-10-10 00:47:58,334 INFO train_random_forest: Training features: 23000/28709 images processed
+2026-10-10 00:48:01,755 INFO train_random_forest: Training features: 23500/28709 images processed
+2026-10-10 00:48:05,430 INFO train_random_forest: Training features: 24000/28709 images processed
+2026-10-10 00:48:09,132 INFO train_random_forest: Training features: 24500/28709 images processed
+2026-10-10 00:48:12,777 INFO train_random_forest: Training features: 25000/28709 images processed
+2026-10-10 00:48:16,054 INFO train_random_forest: Training features: 25500/28709 images processed
+2026-10-10 00:48:19,070 INFO train_random_forest: Training features: 26000/28709 images processed
+2026-10-10 00:48:22,294 INFO train_random_forest: Training features: 26500/28709 images processed
+2026-10-10 00:48:25,794 INFO train_random_forest: Training features: 27000/28709 images processed
+2026-10-10 00:48:27,795 INFO train_random_forest: Training features: 27500/28709 images processed
+2026-10-10 00:48:29,224 INFO train_random_forest: Training features: 28000/28709 images processed
+2026-10-10 00:48:31,167 INFO train_random_forest: Training features: 28500/28709 images processed
+2026-10-10 00:48:31,961 INFO train_random_forest: Training features: 28709/28709 images processed
+2026-10-10 00:48:32,363 INFO train_random_forest: Extracting HOG features for test images...
+2026-10-10 00:48:34,251 INFO train_random_forest: Test features: 500/7178 images processed
+2026-10-10 00:48:35,937 INFO train_random_forest: Test features: 1000/7178 images processed
+2026-10-10 00:48:37,448 INFO train_random_forest: Test features: 1500/7178 images processed
+2026-10-10 00:48:39,508 INFO train_random_forest: Test features: 2000/7178 images processed
+2026-10-10 00:48:42,297 INFO train_random_forest: Test features: 2500/7178 images processed
+2026-10-10 00:48:45,326 INFO train_random_forest: Test features: 3000/7178 images processed
+2026-10-10 00:48:48,288 INFO train_random_forest: Test features: 3500/7178 images processed
+2026-10-10 00:48:51,357 INFO train_random_forest: Test features: 4000/7178 images processed
+2026-10-10 00:48:54,404 INFO train_random_forest: Test features: 4500/7178 images processed
+2026-10-10 00:48:55,910 INFO train_random_forest: Test features: 5000/7178 images processed
+2026-10-10 00:48:57,642 INFO train_random_forest: Test features: 5500/7178 images processed
+2026-10-10 00:48:59,142 INFO train_random_forest: Test features: 6000/7178 images processed
+2026-10-10 00:49:00,697 INFO train_random_forest: Test features: 6500/7178 images processed
+2026-10-10 00:49:00,714 INFO train_random_forest: Loading training images from D:\dl project\AI_Interview_Emotion_Confidence_Analysis\data\fer2013
+2026-10-10 00:49:01,835 INFO train_random_forest: Training images: 28709
+2026-10-10 00:49:01,836 INFO train_random_forest: Test images: 7178
+2026-10-10 00:49:01,836 INFO train_random_forest: Extracting HOG features for training images...
+2026-10-10 00:49:02,550 INFO train_random_forest: Test features: 7000/7178 images processed
+2026-10-10 00:49:03,145 INFO train_random_forest: Test features: 7178/7178 images processed
+2026-10-10 00:49:03,241 INFO train_random_forest: Training Random Forest classifier...
+2026-10-10 00:49:03,267 INFO train_random_forest: Training features: 500/28709 images processed
+2026-10-10 00:49:04,793 INFO train_random_forest: Training features: 1000/28709 images processed
+2026-10-10 00:49:06,240 INFO train_random_forest: Training features: 1500/28709 images processed
+2026-10-10 00:49:07,949 INFO train_random_forest: Training features: 2000/28709 images processed
+2026-10-10 00:49:09,492 INFO train_random_forest: Training features: 2500/28709 images processed
+2026-10-10 00:49:11,006 INFO train_random_forest: Training features: 3000/28709 images processed
+2026-10-10 00:49:12,561 INFO train_random_forest: Training features: 3500/28709 images processed
+2026-10-10 00:49:14,101 INFO train_random_forest: Training features: 4000/28709 images processed
+2026-10-10 00:49:15,736 INFO train_random_forest: Training features: 4500/28709 images processed
+2026-10-10 00:49:17,270 INFO train_random_forest: Training features: 5000/28709 images processed
+2026-10-10 00:49:19,380 INFO train_random_forest: Training features: 5500/28709 images processed
+2026-10-10 00:49:22,044 INFO train_random_forest: Training features: 6000/28709 images processed
+2026-10-10 00:49:24,701 INFO train_random_forest: Training features: 6500/28709 images processed
+2026-10-10 00:49:27,296 INFO train_random_forest: Training features: 7000/28709 images processed
+2026-10-10 00:49:29,858 INFO train_random_forest: Training features: 7500/28709 images processed
+2026-10-10 00:49:32,540 INFO train_random_forest: Training features: 8000/28709 images processed
+2026-10-10 00:49:35,164 INFO train_random_forest: Training features: 8500/28709 images processed
+2026-10-10 00:49:37,747 INFO train_random_forest: Training features: 9000/28709 images processed
+2026-10-10 00:49:40,383 INFO train_random_forest: Training features: 9500/28709 images processed
+2026-10-10 00:49:42,839 INFO train_random_forest: Training features: 10000/28709 images processed
+2026-10-10 00:49:45,402 INFO train_random_forest: Training features: 10500/28709 images processed
+2026-10-10 00:49:47,975 INFO train_random_forest: Training features: 11000/28709 images processed
+2026-10-10 00:49:50,445 INFO train_random_forest: Training features: 11500/28709 images processed
+2026-10-10 00:49:52,888 INFO train_random_forest: Training features: 12000/28709 images processed
+2026-10-10 00:49:55,489 INFO train_random_forest: Training features: 12500/28709 images processed
+2026-10-10 00:49:58,071 INFO train_random_forest: Training features: 13000/28709 images processed
+2026-10-10 00:49:59,986 INFO train_random_forest: Training features: 13500/28709 images processed
+2026-10-10 00:50:00,547 INFO train_random_forest: Evaluating model on the test split...
+2026-10-10 00:50:01,403 INFO train_random_forest: Model saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_hog.joblib
+2026-10-10 00:50:01,404 INFO train_random_forest: Metrics saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_metrics.json
+2026-10-10 00:50:01,404 INFO train_random_forest: Test accuracy: 0.4770
+2026-10-10 00:50:01,404 INFO train_random_forest: Macro F1 score: 0.4378
+2026-10-10 00:50:02,117 INFO train_random_forest: Training features: 14000/28709 images processed
+2026-10-10 00:50:04,731 INFO train_random_forest: Training features: 14500/28709 images processed
+2026-10-10 00:50:07,426 INFO train_random_forest: Training features: 15000/28709 images processed
+2026-10-10 00:50:10,228 INFO train_random_forest: Training features: 15500/28709 images processed
+2026-10-10 00:50:12,725 INFO train_random_forest: Training features: 16000/28709 images processed
+2026-10-10 00:50:15,008 INFO train_random_forest: Training features: 16500/28709 images processed
+2026-10-10 00:50:17,082 INFO train_random_forest: Training features: 17000/28709 images processed
+2026-10-10 00:50:18,170 INFO train_random_forest: Training features: 17500/28709 images processed
+2026-10-10 00:50:19,597 INFO train_random_forest: Training features: 18000/28709 images processed
+2026-10-10 00:50:21,008 INFO train_random_forest: Training features: 18500/28709 images processed
+2026-10-10 00:50:22,345 INFO train_random_forest: Training features: 19000/28709 images processed
+2026-10-10 00:50:23,676 INFO train_random_forest: Training features: 19500/28709 images processed
+2026-10-10 00:50:25,114 INFO train_random_forest: Training features: 20000/28709 images processed
+2026-10-10 00:50:26,534 INFO train_random_forest: Training features: 20500/28709 images processed
+2026-10-10 00:50:28,095 INFO train_random_forest: Training features: 21000/28709 images processed
+2026-10-10 00:50:29,522 INFO train_random_forest: Training features: 21500/28709 images processed
+2026-10-10 00:50:30,712 INFO train_random_forest: Training features: 22000/28709 images processed
+2026-10-10 00:50:32,005 INFO train_random_forest: Training features: 22500/28709 images processed
+2026-10-10 00:50:33,012 INFO train_random_forest: Training features: 23000/28709 images processed
+2026-10-10 00:50:34,280 INFO train_random_forest: Training features: 23500/28709 images processed
+2026-10-10 00:50:35,884 INFO train_random_forest: Training features: 24000/28709 images processed
+2026-10-10 00:50:37,359 INFO train_random_forest: Training features: 24500/28709 images processed
+2026-10-10 00:50:38,898 INFO train_random_forest: Training features: 25000/28709 images processed
+2026-10-10 00:50:40,971 INFO train_random_forest: Training features: 25500/28709 images processed
+2026-10-10 00:50:43,111 INFO train_random_forest: Training features: 26000/28709 images processed
+2026-10-10 00:50:45,467 INFO train_random_forest: Training features: 26500/28709 images processed
+2026-10-10 00:50:48,512 INFO train_random_forest: Training features: 27000/28709 images processed
+2026-10-10 00:50:51,551 INFO train_random_forest: Training features: 27500/28709 images processed
+2026-10-10 00:50:54,024 INFO train_random_forest: Training features: 28000/28709 images processed
+2026-10-10 00:50:55,699 INFO train_random_forest: Training features: 28500/28709 images processed
+2026-10-10 00:50:56,323 INFO train_random_forest: Training features: 28709/28709 images processed
+2026-10-10 00:50:56,571 INFO train_random_forest: Extracting HOG features for test images...
+2026-10-10 00:50:58,004 INFO train_random_forest: Test features: 500/7178 images processed
+2026-10-10 00:51:00,007 INFO train_random_forest: Test features: 1000/7178 images processed
+2026-10-10 00:51:01,275 INFO train_random_forest: Test features: 1500/7178 images processed
+2026-10-10 00:51:02,234 INFO train_random_forest: Test features: 2000/7178 images processed
+2026-10-10 00:51:03,346 INFO train_random_forest: Test features: 2500/7178 images processed
+2026-10-10 00:51:03,809 INFO train_random_forest: Loading training images from D:\dl project\AI_Interview_Emotion_Confidence_Analysis\data\fer2013
+2026-10-10 00:51:04,338 INFO train_random_forest: Test features: 3000/7178 images processed
+2026-10-10 00:51:04,569 INFO train_random_forest: Training images: 28709
+2026-10-10 00:51:04,569 INFO train_random_forest: Test images: 7178
+2026-10-10 00:51:04,569 INFO train_random_forest: Extracting HOG features for training images...
+2026-10-10 00:51:05,376 INFO train_random_forest: Test features: 3500/7178 images processed
+2026-10-10 00:51:05,584 INFO train_random_forest: Training features: 500/28709 images processed
+2026-10-10 00:51:06,227 INFO train_random_forest: Test features: 4000/7178 images processed
+2026-10-10 00:51:06,430 INFO train_random_forest: Training features: 1000/28709 images processed
+2026-10-10 00:51:07,122 INFO train_random_forest: Test features: 4500/7178 images processed
+2026-10-10 00:51:07,312 INFO train_random_forest: Training features: 1500/28709 images processed
+2026-10-10 00:51:07,967 INFO train_random_forest: Test features: 5000/7178 images processed
+2026-10-10 00:51:08,193 INFO train_random_forest: Training features: 2000/28709 images processed
+2026-10-10 00:51:08,860 INFO train_random_forest: Test features: 5500/7178 images processed
+2026-10-10 00:51:09,108 INFO train_random_forest: Training features: 2500/28709 images processed
+2026-10-10 00:51:09,844 INFO train_random_forest: Test features: 6000/7178 images processed
+2026-10-10 00:51:10,065 INFO train_random_forest: Training features: 3000/28709 images processed
+2026-10-10 00:51:10,762 INFO train_random_forest: Test features: 6500/7178 images processed
+2026-10-10 00:51:10,982 INFO train_random_forest: Training features: 3500/28709 images processed
+2026-10-10 00:51:11,644 INFO train_random_forest: Test features: 7000/7178 images processed
+2026-10-10 00:51:11,893 INFO train_random_forest: Training features: 4000/28709 images processed
+2026-10-10 00:51:11,970 INFO train_random_forest: Test features: 7178/7178 images processed
+2026-10-10 00:51:12,011 INFO train_random_forest: Training Random Forest classifier...
+2026-10-10 00:51:13,132 INFO train_random_forest: Training features: 4500/28709 images processed
+2026-10-10 00:51:14,571 INFO train_random_forest: Training features: 5000/28709 images processed
+2026-10-10 00:51:16,422 INFO train_random_forest: Training features: 5500/28709 images processed
+2026-10-10 00:51:18,520 INFO train_random_forest: Training features: 6000/28709 images processed
+2026-10-10 00:51:21,967 INFO train_random_forest: Training features: 6500/28709 images processed
+2026-10-10 00:51:25,065 INFO train_random_forest: Training features: 7000/28709 images processed
+2026-10-10 00:51:27,884 INFO train_random_forest: Training features: 7500/28709 images processed
+2026-10-10 00:51:30,702 INFO train_random_forest: Training features: 8000/28709 images processed
+2026-10-10 00:51:33,120 INFO train_random_forest: Training features: 8500/28709 images processed
+2026-10-10 00:51:35,645 INFO train_random_forest: Training features: 9000/28709 images processed
+2026-10-10 00:51:38,271 INFO train_random_forest: Training features: 9500/28709 images processed
+2026-10-10 00:51:40,744 INFO train_random_forest: Training features: 10000/28709 images processed
+2026-10-10 00:51:43,189 INFO train_random_forest: Training features: 10500/28709 images processed
+2026-10-10 00:51:45,701 INFO train_random_forest: Training features: 11000/28709 images processed
+2026-10-10 00:51:48,121 INFO train_random_forest: Training features: 11500/28709 images processed
+2026-10-10 00:51:50,660 INFO train_random_forest: Training features: 12000/28709 images processed
+2026-10-10 00:51:53,160 INFO train_random_forest: Training features: 12500/28709 images processed
+2026-10-10 00:51:55,773 INFO train_random_forest: Training features: 13000/28709 images processed
+2026-10-10 00:51:58,630 INFO train_random_forest: Training features: 13500/28709 images processed
+2026-10-10 00:52:01,340 INFO train_random_forest: Training features: 14000/28709 images processed
+2026-10-10 00:52:04,014 INFO train_random_forest: Training features: 14500/28709 images processed
+2026-10-10 00:52:06,522 INFO train_random_forest: Training features: 15000/28709 images processed
+2026-10-10 00:52:09,115 INFO train_random_forest: Training features: 15500/28709 images processed
+2026-10-10 00:52:11,620 INFO train_random_forest: Training features: 16000/28709 images processed
+2026-10-10 00:52:14,205 INFO train_random_forest: Training features: 16500/28709 images processed
+2026-10-10 00:52:16,846 INFO train_random_forest: Training features: 17000/28709 images processed
+2026-10-10 00:52:17,611 INFO train_random_forest: Evaluating model on the test split...
+2026-10-10 00:52:18,788 INFO train_random_forest: Model saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_hog.joblib
+2026-10-10 00:52:18,789 INFO train_random_forest: Metrics saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_metrics.json
+2026-10-10 00:52:18,789 INFO train_random_forest: Test accuracy: 0.4770
+2026-10-10 00:52:18,790 INFO train_random_forest: Macro F1 score: 0.4378
+2026-10-10 00:52:19,723 INFO train_random_forest: Training features: 17500/28709 images processed
+2026-10-10 00:52:22,406 INFO train_random_forest: Training features: 18000/28709 images processed
+2026-10-10 00:52:24,221 INFO train_random_forest: Training features: 18500/28709 images processed
+2026-10-10 00:52:25,585 INFO train_random_forest: Training features: 19000/28709 images processed
+2026-10-10 00:52:27,648 INFO train_random_forest: Training features: 19500/28709 images processed
+2026-10-10 00:52:30,253 INFO train_random_forest: Training features: 20000/28709 images processed
+2026-10-10 00:52:31,822 INFO train_random_forest: Training features: 20500/28709 images processed
+2026-10-10 00:52:33,838 INFO train_random_forest: Training features: 21000/28709 images processed
+2026-10-10 00:52:36,777 INFO train_random_forest: Training features: 21500/28709 images processed
+2026-10-10 00:52:39,155 INFO train_random_forest: Training features: 22000/28709 images processed
+2026-10-10 00:52:40,324 INFO train_random_forest: Training features: 22500/28709 images processed
+2026-10-10 00:52:41,403 INFO train_random_forest: Training features: 23000/28709 images processed
+2026-10-10 00:52:42,422 INFO train_random_forest: Training features: 23500/28709 images processed
+2026-10-10 00:52:43,328 INFO train_random_forest: Training features: 24000/28709 images processed
+2026-10-10 00:52:44,182 INFO train_random_forest: Training features: 24500/28709 images processed
+2026-10-10 00:52:45,008 INFO train_random_forest: Training features: 25000/28709 images processed
+2026-10-10 00:52:46,176 INFO train_random_forest: Training features: 25500/28709 images processed
+2026-10-10 00:52:47,137 INFO train_random_forest: Training features: 26000/28709 images processed
+2026-10-10 00:52:48,138 INFO train_random_forest: Training features: 26500/28709 images processed
+2026-10-10 00:52:49,279 INFO train_random_forest: Training features: 27000/28709 images processed
+2026-10-10 00:52:50,206 INFO train_random_forest: Training features: 27500/28709 images processed
+2026-10-10 00:52:51,202 INFO train_random_forest: Training features: 28000/28709 images processed
+2026-10-10 00:52:52,133 INFO train_random_forest: Training features: 28500/28709 images processed
+2026-10-10 00:52:52,555 INFO train_random_forest: Training features: 28709/28709 images processed
+2026-10-10 00:52:52,745 INFO train_random_forest: Extracting HOG features for test images...
+2026-10-10 00:52:53,792 INFO train_random_forest: Test features: 500/7178 images processed
+2026-10-10 00:52:54,688 INFO train_random_forest: Test features: 1000/7178 images processed
+2026-10-10 00:52:55,597 INFO train_random_forest: Test features: 1500/7178 images processed
+2026-10-10 00:52:56,491 INFO train_random_forest: Test features: 2000/7178 images processed
+2026-10-10 00:52:57,384 INFO train_random_forest: Test features: 2500/7178 images processed
+2026-10-10 00:52:58,247 INFO train_random_forest: Test features: 3000/7178 images processed
+2026-10-10 00:52:59,097 INFO train_random_forest: Test features: 3500/7178 images processed
+2026-10-10 00:52:59,920 INFO train_random_forest: Test features: 4000/7178 images processed
+2026-10-10 00:53:00,763 INFO train_random_forest: Test features: 4500/7178 images processed
+2026-10-10 00:53:01,565 INFO train_random_forest: Test features: 5000/7178 images processed
+2026-10-10 00:53:02,384 INFO train_random_forest: Test features: 5500/7178 images processed
+2026-10-10 00:53:03,307 INFO train_random_forest: Test features: 6000/7178 images processed
+2026-10-10 00:53:04,209 INFO train_random_forest: Test features: 6500/7178 images processed
+2026-10-10 00:53:05,053 INFO train_random_forest: Test features: 7000/7178 images processed
+2026-10-10 00:53:05,335 INFO train_random_forest: Test features: 7178/7178 images processed
+2026-10-10 00:53:05,388 INFO train_random_forest: Training Random Forest classifier...
+2026-10-10 00:53:43,529 INFO train_random_forest: Evaluating model on the test split...
+2026-10-10 00:53:44,112 INFO train_random_forest: Model saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_hog.joblib
+2026-10-10 00:53:44,112 INFO train_random_forest: Metrics saved to D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\random_forest_metrics.json
+2026-10-10 00:53:44,112 INFO train_random_forest: Test accuracy: 0.4770
+2026-10-10 00:53:44,112 INFO train_random_forest: Macro F1 score: 0.4378

@@ -1,0 +1,15 @@
+2026-10-09 22:07:05,163 INFO interview_analyzer: Analyzed C:\Users\vishw\AppData\Local\Temp\tmpt92_n0mp.mp4: 100 frames, neutral
+2026-10-10 10:49:44,442 INFO interview_analyzer: Analyzed C:\Users\vishw\AppData\Local\Temp\tmpg1qv57s3.mp4: 53 frames, dominant emotion: sad
+2026-10-10 10:53:41,600 INFO interview_analyzer: Analyzed C:\Users\vishw\AppData\Local\Temp\tmpcd8h83q5.mp4: 25 frames, dominant emotion: sad
+2026-10-10 10:54:50,770 INFO interview_analyzer: Analyzed C:\Users\vishw\AppData\Local\Temp\tmp69v6mp95.mp4: 25 frames, dominant emotion: sad
+2026-10-10 10:54:51,930 INFO interview_analyzer: Analyzed C:\Users\vishw\AppData\Local\Temp\tmppdv13hbm.mp4: 25 frames, dominant emotion: sad
+2026-10-10 10:54:54,215 INFO interview_analyzer: Analyzed C:\Users\vishw\AppData\Local\Temp\tmpdwi9zchf.mp4: 25 frames, dominant emotion: sad
+2026-10-10 10:56:53,829 INFO interview_analyzer: Loading emotion model: D:\dl project\AI_Interview_Emotion_Confidence_Analysis\models\mobilenetv2_emotion.keras
+2026-10-10 10:57:10,353 INFO interview_analyzer: Video progress: 100 frames read
+2026-10-10 10:57:17,240 INFO interview_analyzer: Video progress: 200 frames read
+2026-10-10 10:57:28,759 INFO interview_analyzer: Video progress: 300 frames read
+2026-10-10 10:57:38,712 INFO interview_analyzer: Video progress: 400 frames read
+2026-10-10 10:57:44,180 INFO interview_analyzer: Video progress: 500 frames read
+2026-10-10 10:57:59,865 INFO interview_analyzer: Analysis complete: 25 frames analyzed; dominant emotion: sad
+2026-10-10 11:51:06,671 INFO interview_analyzer: Video analysis completed: 59 sampled, 56 analyzed, 3 without a detected face.
+2026-10-10 11:57:10,163 INFO interview_analyzer: Video analysis completed: 82 sampled, 82 analyzed, 0 without a detected face.

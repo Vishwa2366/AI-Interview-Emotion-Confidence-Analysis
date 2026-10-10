@@ -1,0 +1,527 @@
+{
+  "video": "video 1.mp4",
+  "duration_seconds": 32.64,
+  "fps": 25.0,
+  "total_frames": 816,
+  "frame_interval": 10,
+  "sampled_frames": 82,
+  "analyzed_frames": 82,
+  "face_detected_frames": 82,
+  "frames_without_face": 0,
+  "face_image_quality_proxy": 34.49,
+  "head_stability_proxy": 86.76,
+  "emotion_stability_proxy": 70.73,
+  "dominant_emotion": "neutral",
+  "emotion_distribution": {
+    "sad": 29.27,
+    "neutral": 69.51,
+    "happy": 1.22
+  },
+  "emotion_timeline": [
+    {
+      "frame": 1,
+      "time_seconds": 0.0,
+      "emotion": "sad",
+      "probability": 0.4161
+    },
+    {
+      "frame": 11,
+      "time_seconds": 0.4,
+      "emotion": "sad",
+      "probability": 0.4136
+    },
+    {
+      "frame": 21,
+      "time_seconds": 0.8,
+      "emotion": "sad",
+      "probability": 0.4021
+    },
+    {
+      "frame": 31,
+      "time_seconds": 1.2,
+      "emotion": "sad",
+      "probability": 0.4052
+    },
+    {
+      "frame": 41,
+      "time_seconds": 1.6,
+      "emotion": "sad",
+      "probability": 0.4432
+    },
+    {
+      "frame": 51,
+      "time_seconds": 2.0,
+      "emotion": "sad",
+      "probability": 0.42
+    },
+    {
+      "frame": 61,
+      "time_seconds": 2.4,
+      "emotion": "sad",
+      "probability": 0.4294
+    },
+    {
+      "frame": 71,
+      "time_seconds": 2.8,
+      "emotion": "sad",
+      "probability": 0.4048
+    },
+    {
+      "frame": 81,
+      "time_seconds": 3.2,
+      "emotion": "neutral",
+      "probability": 0.3677
+    },
+    {
+      "frame": 91,
+      "time_seconds": 3.6,
+      "emotion": "neutral",
+      "probability": 0.4272
+    },
+    {
+      "frame": 101,
+      "time_seconds": 4.0,
+      "emotion": "neutral",
+      "probability": 0.3832
+    },
+    {
+      "frame": 111,
+      "time_seconds": 4.4,
+      "emotion": "neutral",
+      "probability": 0.4969
+    },
+    {
+      "frame": 121,
+      "time_seconds": 4.8,
+      "emotion": "happy",
+      "probability": 0.7487
+    },
+    {
+      "frame": 131,
+      "time_seconds": 5.2,
+      "emotion": "neutral",
+      "probability": 0.4153
+    },
+    {
+      "frame": 141,
+      "time_seconds": 5.6,
+      "emotion": "neutral",
+      "probability": 0.4588
+    },
+    {
+      "frame": 151,
+      "time_seconds": 6.0,
+      "emotion": "neutral",
+      "probability": 0.4537
+    },
+    {
+      "frame": 161,
+      "time_seconds": 6.4,
+      "emotion": "neutral",
+      "probability": 0.4139
+    },
+    {
+      "frame": 171,
+      "time_seconds": 6.8,
+      "emotion": "sad",
+      "probability": 0.7092
+    },
+    {
+      "frame": 181,
+      "time_seconds": 7.2,
+      "emotion": "sad",
+      "probability": 0.6491
+    },
+    {
+      "frame": 191,
+      "time_seconds": 7.6,
+      "emotion": "sad",
+      "probability": 0.6872
+    },
+    {
+      "frame": 201,
+      "time_seconds": 8.0,
+      "emotion": "sad",
+      "probability": 0.5113
+    },
+    {
+      "frame": 211,
+      "time_seconds": 8.4,
+      "emotion": "neutral",
+      "probability": 0.5081
+    },
+    {
+      "frame": 221,
+      "time_seconds": 8.8,
+      "emotion": "neutral",
+      "probability": 0.4457
+    },
+    {
+      "frame": 231,
+      "time_seconds": 9.2,
+      "emotion": "neutral",
+      "probability": 0.4252
+    },
+    {
+      "frame": 241,
+      "time_seconds": 9.6,
+      "emotion": "neutral",
+      "probability": 0.5981
+    },
+    {
+      "frame": 251,
+      "time_seconds": 10.0,
+      "emotion": "neutral",
+      "probability": 0.6098
+    },
+    {
+      "frame": 261,
+      "time_seconds": 10.4,
+      "emotion": "neutral",
+      "probability": 0.3775
+    },
+    {
+      "frame": 271,
+      "time_seconds": 10.8,
+      "emotion": "neutral",
+      "probability": 0.4222
+    },
+    {
+      "frame": 281,
+      "time_seconds": 11.2,
+      "emotion": "sad",
+      "probability": 0.3428
+    },
+    {
+      "frame": 291,
+      "time_seconds": 11.6,
+      "emotion": "neutral",
+      "probability": 0.4105
+    },
+    {
+      "frame": 301,
+      "time_seconds": 12.0,
+      "emotion": "neutral",
+      "probability": 0.4718
+    },
+    {
+      "frame": 311,
+      "time_seconds": 12.4,
+      "emotion": "neutral",
+      "probability": 0.5188
+    },
+    {
+      "frame": 321,
+      "time_seconds": 12.8,
+      "emotion": "neutral",
+      "probability": 0.3105
+    },
+    {
+      "frame": 331,
+      "time_seconds": 13.2,
+      "emotion": "neutral",
+      "probability": 0.3701
+    },
+    {
+      "frame": 341,
+      "time_seconds": 13.6,
+      "emotion": "neutral",
+      "probability": 0.4187
+    },
+    {
+      "frame": 351,
+      "time_seconds": 14.0,
+      "emotion": "neutral",
+      "probability": 0.4286
+    },
+    {
+      "frame": 361,
+      "time_seconds": 14.4,
+      "emotion": "neutral",
+      "probability": 0.3771
+    },
+    {
+      "frame": 371,
+      "time_seconds": 14.8,
+      "emotion": "neutral",
+      "probability": 0.472
+    },
+    {
+      "frame": 381,
+      "time_seconds": 15.2,
+      "emotion": "neutral",
+      "probability": 0.4513
+    },
+    {
+      "frame": 391,
+      "time_seconds": 15.6,
+      "emotion": "neutral",
+      "probability": 0.5062
+    },
+    {
+      "frame": 401,
+      "time_seconds": 16.0,
+      "emotion": "neutral",
+      "probability": 0.3778
+    },
+    {
+      "frame": 411,
+      "time_seconds": 16.4,
+      "emotion": "neutral",
+      "probability": 0.3046
+    },
+    {
+      "frame": 421,
+      "time_seconds": 16.8,
+      "emotion": "neutral",
+      "probability": 0.3416
+    },
+    {
+      "frame": 431,
+      "time_seconds": 17.2,
+      "emotion": "neutral",
+      "probability": 0.405
+    },
+    {
+      "frame": 441,
+      "time_seconds": 17.6,
+      "emotion": "neutral",
+      "probability": 0.3941
+    },
+    {
+      "frame": 451,
+      "time_seconds": 18.0,
+      "emotion": "sad",
+      "probability": 0.4039
+    },
+    {
+      "frame": 461,
+      "time_seconds": 18.4,
+      "emotion": "sad",
+      "probability": 0.3433
+    },
+    {
+      "frame": 471,
+      "time_seconds": 18.8,
+      "emotion": "neutral",
+      "probability": 0.4256
+    },
+    {
+      "frame": 481,
+      "time_seconds": 19.2,
+      "emotion": "sad",
+      "probability": 0.8509
+    },
+    {
+      "frame": 491,
+      "time_seconds": 19.6,
+      "emotion": "neutral",
+      "probability": 0.5121
+    },
+    {
+      "frame": 501,
+      "time_seconds": 20.0,
+      "emotion": "neutral",
+      "probability": 0.5674
+    },
+    {
+      "frame": 511,
+      "time_seconds": 20.4,
+      "emotion": "neutral",
+      "probability": 0.5257
+    },
+    {
+      "frame": 521,
+      "time_seconds": 20.8,
+      "emotion": "sad",
+      "probability": 0.3938
+    },
+    {
+      "frame": 531,
+      "time_seconds": 21.2,
+      "emotion": "sad",
+      "probability": 0.3965
+    },
+    {
+      "frame": 541,
+      "time_seconds": 21.6,
+      "emotion": "neutral",
+      "probability": 0.3603
+    },
+    {
+      "frame": 551,
+      "time_seconds": 22.0,
+      "emotion": "neutral",
+      "probability": 0.3882
+    },
+    {
+      "frame": 561,
+      "time_seconds": 22.4,
+      "emotion": "neutral",
+      "probability": 0.415
+    },
+    {
+      "frame": 571,
+      "time_seconds": 22.8,
+      "emotion": "neutral",
+      "probability": 0.4286
+    },
+    {
+      "frame": 581,
+      "time_seconds": 23.2,
+      "emotion": "neutral",
+      "probability": 0.4299
+    },
+    {
+      "frame": 591,
+      "time_seconds": 23.6,
+      "emotion": "sad",
+      "probability": 0.4681
+    },
+    {
+      "frame": 601,
+      "time_seconds": 24.0,
+      "emotion": "neutral",
+      "probability": 0.528
+    },
+    {
+      "frame": 611,
+      "time_seconds": 24.4,
+      "emotion": "neutral",
+      "probability": 0.3674
+    },
+    {
+      "frame": 621,
+      "time_seconds": 24.8,
+      "emotion": "neutral",
+      "probability": 0.4053
+    },
+    {
+      "frame": 631,
+      "time_seconds": 25.2,
+      "emotion": "neutral",
+      "probability": 0.3928
+    },
+    {
+      "frame": 641,
+      "time_seconds": 25.6,
+      "emotion": "neutral",
+      "probability": 0.4176
+    },
+    {
+      "frame": 651,
+      "time_seconds": 26.0,
+      "emotion": "sad",
+      "probability": 0.4746
+    },
+    {
+      "frame": 661,
+      "time_seconds": 26.4,
+      "emotion": "sad",
+      "probability": 0.3701
+    },
+    {
+      "frame": 671,
+      "time_seconds": 26.8,
+      "emotion": "neutral",
+      "probability": 0.5658
+    },
+    {
+      "frame": 681,
+      "time_seconds": 27.2,
+      "emotion": "neutral",
+      "probability": 0.3646
+    },
+    {
+      "frame": 691,
+      "time_seconds": 27.6,
+      "emotion": "sad",
+      "probability": 0.3866
+    },
+    {
+      "frame": 701,
+      "time_seconds": 28.0,
+      "emotion": "neutral",
+      "probability": 0.3897
+    },
+    {
+      "frame": 711,
+      "time_seconds": 28.4,
+      "emotion": "sad",
+      "probability": 0.4425
+    },
+    {
+      "frame": 721,
+      "time_seconds": 28.8,
+      "emotion": "neutral",
+      "probability": 0.5338
+    },
+    {
+      "frame": 731,
+      "time_seconds": 29.2,
+      "emotion": "neutral",
+      "probability": 0.393
+    },
+    {
+      "frame": 741,
+      "time_seconds": 29.6,
+      "emotion": "neutral",
+      "probability": 0.3484
+    },
+    {
+      "frame": 751,
+      "time_seconds": 30.0,
+      "emotion": "neutral",
+      "probability": 0.3474
+    },
+    {
+      "frame": 761,
+      "time_seconds": 30.4,
+      "emotion": "neutral",
+      "probability": 0.4959
+    },
+    {
+      "frame": 771,
+      "time_seconds": 30.8,
+      "emotion": "neutral",
+      "probability": 0.4422
+    },
+    {
+      "frame": 781,
+      "time_seconds": 31.2,
+      "emotion": "neutral",
+      "probability": 0.4269
+    },
+    {
+      "frame": 791,
+      "time_seconds": 31.6,
+      "emotion": "neutral",
+      "probability": 0.3173
+    },
+    {
+      "frame": 801,
+      "time_seconds": 32.0,
+      "emotion": "sad",
+      "probability": 0.3644
+    },
+    {
+      "frame": 811,
+      "time_seconds": 32.4,
+      "emotion": "neutral",
+      "probability": 0.3891
+    }
+  ],
+  "average_emotion_probability": 0.4441,
+  "behavioral_proxy_score": 67.28,
+  "behavioral_proxy_details": {
+    "face_image_quality_proxy": 0.3449,
+    "head_stability_proxy": 0.8676,
+    "emotion_stability_proxy": 0.7073,
+    "frames_analyzed": 82,
+    "behavioral_proxy_score": 67.28,
+    "score_status": "experimental_proxy",
+    "warning": "Experimental image and behavior proxies only. These are not validated measures of psychological confidence, eye contact, competence, or internal emotional state. Scores depend on camera conditions, sampling, and heuristic choices."
+  },
+  "overall_interpretation": "Experimental observable-video proxy only; not a clinical or psychological confidence measurement.",
+  "warning": "Facial expressions and predicted emotion labels do not necessarily reveal internal emotional states. These results should not be used alone for hiring decisions."
+}

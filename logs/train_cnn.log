@@ -1,0 +1,5 @@
+2026-10-09 11:29:03,116 INFO train_cnn: CNN training finished with accuracy 0.1429
+2026-10-09 11:46:21,620 INFO train_cnn: CNN training finished with accuracy 0.1429
+2026-10-09 11:51:00,502 INFO train_cnn: CNN training finished with accuracy 0.1429
+2026-10-09 23:15:51,056 INFO train_cnn: CNN training finished with accuracy 0.2477
+2026-10-09 23:25:32,993 INFO train_cnn: CNN finished: accuracy=0.1427, macro_f1=0.0357

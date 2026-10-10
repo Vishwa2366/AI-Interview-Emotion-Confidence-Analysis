@@ -1,0 +1,144 @@
+{
+  "model": "CNN",
+  "accuracy": 0.14265812203956535,
+  "precision_macro": 0.020379731719937906,
+  "recall_macro": 0.14285714285714285,
+  "f1_macro": 0.035670742327655276,
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      958,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      111,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1024,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1774,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1233,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1247,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      831,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "classification_report": {
+    "angry": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 958.0
+    },
+    "disgust": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 111.0
+    },
+    "fear": {
+      "precision": 0.14265812203956535,
+      "recall": 1.0,
+      "f1-score": 0.24969519629358694,
+      "support": 1024.0
+    },
+    "happy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1774.0
+    },
+    "neutral": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1233.0
+    },
+    "sad": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1247.0
+    },
+    "surprise": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 831.0
+    },
+    "accuracy": 0.14265812203956535,
+    "macro avg": {
+      "precision": 0.020379731719937906,
+      "recall": 0.14285714285714285,
+      "f1-score": 0.035670742327655276,
+      "support": 7178.0
+    },
+    "weighted avg": {
+      "precision": 0.020351339783855518,
+      "recall": 0.14265812203956535,
+      "f1-score": 0.03562104778554375,
+      "support": 7178.0
+    }
+  },
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "training_time_seconds": 256.02,
+  "epochs_requested": 20,
+  "epochs_completed": 7,
+  "batch_size": 64,
+  "validation_split": 0.15,
+  "class_weighting": "balanced"
+}
