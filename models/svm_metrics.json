@@ -1,0 +1,87 @@
+{
+  "model": "SVM",
+  "feature_extractor": "HOG",
+  "dimensionality_reduction": "PCA",
+  "pca_components": 128,
+  "accuracy": 0.572582892170521,
+  "precision_macro": 0.6033584727574387,
+  "recall_macro": 0.5309287089130308,
+  "f1_macro": 0.5529872510329211,
+  "confusion_matrix": [
+    [
+      420,
+      3,
+      91,
+      142,
+      153,
+      135,
+      14
+    ],
+    [
+      31,
+      42,
+      10,
+      10,
+      2,
+      14,
+      2
+    ],
+    [
+      116,
+      2,
+      400,
+      94,
+      131,
+      213,
+      68
+    ],
+    [
+      77,
+      0,
+      56,
+      1412,
+      93,
+      109,
+      27
+    ],
+    [
+      102,
+      0,
+      97,
+      180,
+      655,
+      174,
+      25
+    ],
+    [
+      136,
+      2,
+      117,
+      162,
+      214,
+      596,
+      20
+    ],
+    [
+      33,
+      1,
+      66,
+      64,
+      42,
+      40,
+      585
+    ]
+  ],
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "training_samples": 28709,
+  "test_samples": 7178,
+  "training_time_seconds": 194.445
+}

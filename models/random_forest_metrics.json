@@ -1,0 +1,87 @@
+{
+  "model": "RandomForestClassifier",
+  "feature_extractor": "HOG",
+  "accuracy": 0.4770130955697966,
+  "precision_macro": 0.5860679529069163,
+  "recall_macro": 0.4138290611274654,
+  "f1_macro": 0.43776220105248304,
+  "confusion_matrix": [
+    [
+      193,
+      0,
+      49,
+      381,
+      170,
+      144,
+      21
+    ],
+    [
+      15,
+      30,
+      9,
+      26,
+      12,
+      18,
+      1
+    ],
+    [
+      29,
+      0,
+      230,
+      330,
+      197,
+      166,
+      72
+    ],
+    [
+      16,
+      0,
+      28,
+      1554,
+      67,
+      100,
+      9
+    ],
+    [
+      18,
+      0,
+      36,
+      436,
+      559,
+      172,
+      12
+    ],
+    [
+      39,
+      0,
+      61,
+      472,
+      258,
+      402,
+      15
+    ],
+    [
+      24,
+      0,
+      61,
+      162,
+      76,
+      52,
+      456
+    ]
+  ],
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "training_samples": 28709,
+  "test_samples": 7178,
+  "n_estimators": 200,
+  "max_depth": 20,
+  "training_time_seconds": 38.141
+}

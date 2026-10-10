@@ -1,0 +1,23 @@
+
+# Deep learning: prerelease needed for Python 3.14
+tensorflow==2.22.0rc0
+
+# Numerical and data processing
+numpy>=1.26,<2.2
+pandas>=2.2.3
+scipy>=1.15
+
+# Computer vision and machine learning
+opencv-python>=4.12
+scikit-learn>=1.7
+scikit-image>=0.25
+Pillow>=11
+joblib>=1.4
+
+# Visualization
+matplotlib>=3.9
+seaborn>=0.13
+
+# Application interface and utilities
+streamlit>=1.40
+tqdm>=4.66

@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+models/*.keras
+models/*.joblib
+models/*.h5
+outputs/
+logs/
+data/fer2013/
+interview_videos/*.mp4
+interview_videos/*.avi
+interview_videos/*.mov
+.DS_Store
+
+# Ignore all trained model files
+models/*.keras
+models/*.h5
+models/*.joblib
+models/cnn_backup/
