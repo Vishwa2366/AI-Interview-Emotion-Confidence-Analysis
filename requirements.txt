@@ -1,6 +1,6 @@
 
-# Deep learning: prerelease needed for Python 3.14
-tensorflow==2.22.0rc0
+# Deep learning
+tensorflow==2.20.0
 
 # Numerical and data processing
 numpy>=1.26,<2.2
