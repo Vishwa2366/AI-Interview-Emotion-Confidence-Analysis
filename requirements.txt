@@ -8,7 +8,7 @@ pandas>=2.2.3
 scipy>=1.15
 
 # Computer vision and machine learning
-opencv-python>=4.12
+opencv-python-headless>=4.12
 scikit-learn>=1.7
 scikit-image>=0.25
 Pillow>=11
@@ -27,4 +27,4 @@ matplotlib>=3.9
 seaborn>=0.13
 plotly>=5.0
 
-opencv-python>=4.12
+
