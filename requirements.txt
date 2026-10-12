@@ -21,3 +21,8 @@ seaborn>=0.13
 # Application interface and utilities
 streamlit>=1.40
 tqdm>=4.66
+
+# Visualization
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.0
