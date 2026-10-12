@@ -26,3 +26,5 @@ tqdm>=4.66
 matplotlib>=3.9
 seaborn>=0.13
 plotly>=5.0
+
+opencv-python>=4.12
